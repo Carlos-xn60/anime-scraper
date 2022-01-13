@@ -54,6 +54,7 @@ url: 'https://myanimelist.net/anime/7590/Mayoi_Neko_Overrun'
 forked package of the following packages
 
 an-anime-scraper
+
 mal-scraper
 
 full credits to the creators of these packages I hope it will be useful to you.
